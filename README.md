@@ -1,4 +1,4 @@
-# duplicate-files
+# Duplicate Files
 
 Simple file duplicator using bash script.
 
